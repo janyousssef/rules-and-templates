@@ -1,0 +1,3 @@
+-Commits should be short and clear
+-Don't change more than one file
+-Give your commits descriptive names
