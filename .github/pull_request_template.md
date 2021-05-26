@@ -1,15 +1,16 @@
 #Changes
 
--Increased the speed variable. 
+- Increased the speed variable. 
 
 #Reason
 
--Pacman was too slow
+- Pacman was too slow
 
 #Description
 
--speed was 2 now it is 4
+- speed was 2 now it is 4
 
 #Checklist
+
 - [ ] Task finished
 - [ ] Task incomplete
