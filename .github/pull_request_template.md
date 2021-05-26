@@ -14,3 +14,4 @@ _______________________________________________
 
 - [ ] Task finished
 - [ ] Task incomplete
+- [ ] I have Read the [rules](../Rules.md) for commiting
