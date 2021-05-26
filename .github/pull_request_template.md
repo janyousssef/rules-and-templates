@@ -1,6 +1,6 @@
 #Changes
 Example:
--Increased the speed variable 
+-Increased the speed variable. 
 
 #Reason
 -Pacman was too slow
