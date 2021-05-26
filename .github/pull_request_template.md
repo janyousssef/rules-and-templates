@@ -1,16 +1,16 @@
-# Changes
-
-- Increased the speed variable. 
-
-# Reason
-
+## Changes
+- Increased the speed variable.
+ 
+_______________________________________________
+## Reason
 - Pacman was too slow
 
-# Description
-
+_______________________________________________
+## Description
 - speed was 2 now it is 4
 
-# Checklist
+_______________________________________________
+## Checklist
 
 - [ ] Task finished
 - [ ] Task incomplete
